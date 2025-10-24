@@ -1,0 +1,13 @@
+{
+  "name": "vercel-prerender",
+  "version": "1.0.1",
+  "private": true,
+  "type": "commonjs",
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "@sparticuz/chromium": "^123.0.1",
+    "puppeteer-core": "^23.6.0"
+  }
+}
